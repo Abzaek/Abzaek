@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abzaek&label=Profile%20views&color=0e75b6&style=flat" alt="abzaek" /> </p>
 
 
-- 💬 Ask me about **Web and mobile development**
+- 💬 Ask me about **Web and mobile application development**
 
 - 📫 How to reach me **abzaeko@gmail.com**
 
