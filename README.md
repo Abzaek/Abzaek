@@ -116,8 +116,6 @@ Let’s build something that scales, performs, and looks good doing it:
 
 # 🐍 Contribution Snake
 
-![](https://github.com/AbzaDev/AbzaDev/blob/output/github-contribution-grid-snake-dark.svg)
+![](https://github.com/Abzaek/Abzaek/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
-
-If you want an even **more aggressive flex version**, a **meme version**, or a **VC-founder-aesthetic version**, just say the word.
