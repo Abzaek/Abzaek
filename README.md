@@ -1,4 +1,4 @@
-# 👋 Hey, I'm **Abza**
+# 👋 Hey, I'm **Abdulazez**
 
 ### **Software Engineer • Backend Architect • Full-Stack Problem Solver**
 
@@ -7,7 +7,7 @@
 [![](https://visitcount.itsvg.in/api?id=AbzaDev\&icon=5\&color=6)](https://visitcount.itsvg.in)
 
 I build **fast, scalable, distributed** systems in Go, architect clean services, and turn chaotic codebases into predictable, elegant machines.
-When I’m not optimizing pipelines or designing backend architectures, I’m solving algorithms for fun (700+ LeetCode/CF — yes, I’m that person).
+When I’m not optimizing pipelines or designing backend architectures, I’m solving algorithms for fun (1000+ LeetCode/CF — yes, I’m that person).
 
 If your system is slow, unscalable, or having a mid-life crisis, I can fix that.
 
