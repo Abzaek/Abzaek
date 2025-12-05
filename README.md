@@ -116,6 +116,6 @@ Let’s build something that scales, performs, and looks good doing it:
 
 # 🐍 Contribution Snake
 
-![](https://github.com/Abzaek/Abzaek/snake.svg)
+![]([https://github.com/Abzaek/Abzaek/snake.svg](https://github.com/Abzaek/Abzaek/blob/main/snake.svg))
 
 ---
