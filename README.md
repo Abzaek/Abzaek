@@ -5,8 +5,6 @@
 ### **Software Engineer • Backend Architect • 1000+ DSA Problems Solved**
 *“I don’t just build systems — I upgrade them into their final form.”*
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=AbzaDev&icon=5&color=6)](https://visitcount.itsvg.in)
-
 ---
 
 ### 🚀 **About Me**
