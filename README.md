@@ -33,23 +33,6 @@
     <img alt="profile views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=abzaek&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/></a>
 </p>
 
-<br/>
-
-<details open>
-  <summary><h2>📘 My Open Source Projects</h2></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/Abzaek/chat-exporter"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Abzaek&repo=chat-exporter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="chat-exporter"></a>
-    <a href="https://github.com/Abzaek/video_to_mp3"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Abzaek&repo=video_to_mp3&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="video_to_mp3"></a>
-    <a href="https://github.com/Abzaek/zoom-clone"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Abzaek&repo=zoom-clone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="zoom-clone"></a>
-    <a href="https://github.com/Abzaek/iksa-reg-bot"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Abzaek&repo=iksa-reg-bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="iksa-reg-bot"></a>
-    <a href="https://github.com/Abzaek/Fantasy-Ethiopia"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Abzaek&repo=Fantasy-Ethiopia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Fantasy-Ethiopia"></a>
-    <a href="https://github.com/Abzaek/Competitive-Programming"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Abzaek&repo=Competitive-Programming&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Competitive-Programming"></a>
-  </p>
-
-  <a href="https://github.com/Abzaek?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
 
 <details open>
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
