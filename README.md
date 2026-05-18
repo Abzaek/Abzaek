@@ -4,20 +4,20 @@
 </p>
 
 <p align="center">
-  <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Senior%20Software%20Engineer;Go%20%E2%80%A2%20Python%20%E2%80%A2%20TypeScript;Cloud%2C%20AI%20and%20Distributed%20Systems;Always%20shipping%2C%20always%20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://abzaek.dev"><img width="32px" alt="Website" title="abzaek.dev" src="https://custom-icon-badges.demolab.com/badge/-globe-1F222E?style=for-the-badge&logo=globe&logoColor=F8D866"/></a>
+  <a href="https://abzaek.dev"><img width="32px" alt="Website" title="abzaek.dev" src="https://i.imgur.com/XlBuInp.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/abzaek"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:abzaeko@gmail.com"><img width="32px" alt="Email" title="abzaeko@gmail.com" src="https://custom-icon-badges.demolab.com/badge/-mail-1F222E?style=for-the-badge&logo=mail&logoColor=F8D866"/></a>
+  <a href="mailto:abzaeko@gmail.com"><img width="32px" alt="Email" title="abzaeko@gmail.com" src="https://i.imgur.com/j2IJN5K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/Abzaek"><img width="32px" alt="GitHub" title="GitHub" src="https://custom-icon-badges.demolab.com/badge/-mark--github-1F222E?style=for-the-badge&logo=mark-github&logoColor=F8D866"/></a>
+  <a href="https://github.com/Abzaek"><img width="32px" alt="GitHub" title="GitHub" src="https://i.imgur.com/M4nJf8H.png"/></a>
 </p>
 
 <br/>
@@ -36,7 +36,7 @@
 <br/>
 
 <details open>
-  <summary><h2>🔭 Currently Building</h2></summary>
+  <summary><h2>📘 My Open Source Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
@@ -53,6 +53,7 @@
 
 <details open>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -103,7 +104,7 @@
   </p>
 </details>
 
-<details open>
+<details>
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -124,29 +125,5 @@
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Abzaek's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=abzaek&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-  1. 🚀 Pushed commits to [Abzaek/chat-exporter](https://github.com/Abzaek/chat-exporter)
-  2. 💪 Opened PR in [Abzaek/zoom-clone](https://github.com/Abzaek/zoom-clone)
-  3. ⭐ Starred a repository on GitHub
-  4. 🔧 Updated infrastructure in [Abzaek/iksa-reg-bot](https://github.com/Abzaek/iksa-reg-bot)
-  5. 📝 Pushed commits to [Abzaek/Competitive-Programming](https://github.com/Abzaek/Competitive-Programming)
-  <!--END_SECTION:activity-->
-
-  <h3>🐍 Contribution Snake</h3>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abzaek/Abzaek/main/snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abzaek/Abzaek/main/snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Abzaek/Abzaek/main/snake.svg" width="100%" />
-  </picture>
 
 </details>
