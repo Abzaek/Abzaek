@@ -1,75 +1,157 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Abzaek/Abzaek/main/github-header-image.png" alt="Abdulazez A." width="100%" />
+  <img src="https://raw.githubusercontent.com/Abzaek/Abzaek/main/github-header-image.png" width="100%" alt="banner"/>
 </div>
 
-<h1 align="center">👋 Hey, I'm Abdulazez A.</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Abdulazez;Senior+Software+Engineer;Go+%7C+Python+%7C+TypeScript;Cloud+%7C+AI+%7C+Systems" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <b>Senior Software Engineer</b> — Go · Python · TypeScript · Cloud-Native · AI/ML
+  <a href="https://abzaek.dev"><img src="https://img.shields.io/badge/-abzaek.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/abzaek"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abzaeko@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Abzaek"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <a href="https://abzaek.dev"><img src="https://img.shields.io/badge/website-abzaek.dev-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/abzaek"><img src="https://img.shields.io/badge/linkedin-abzaek-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abzaeko@gmail.com"><img src="https://img.shields.io/badge/email-abzaeko@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=abzaek&style=flat-square&color=blueviolet" alt="profile views"/>
-</p>
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-```
-Go          ●●●●●  Chi, Fiber, Gorilla, Watermill, gRPC
-Python      ●●●●●  FastAPI, Flask, Celery, SQLAlchemy, PyTorch
-TypeScript  ●●●●○  Next.js, React, Node.js, Express
-Infra       ●●●●○  Docker, Kubernetes, Terraform, AWS, CI/CD
-Databases   ●●●●○  PostgreSQL, Redis, SQLite, RabbitMQ
-AI/ML       ●●●○○  LLMs, RAG, LangChain, Vector DBs, Fine-tuning
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fiber-00ACC1?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
 
-## 🔭 What I'm Building
+<br/>
 
-- **Lead Hunter** — Go + SQLite + HTMX kanban for automated lead generation. Scrapes, tracks, and manages outbound campaigns.
-- **Hermes Agent** — Contributing to the Nous Research AI agent platform (autonomous coding, MCP, multi-agent orchestration).
-- **chat-exporter** (⭐8) — Export ChatGPT conversations to Markdown to bypass message limits and transfer context between LLMs.
-- **video_to_mp3** — Cloud-native microservices app (Flask, RabbitMQ, GridFS, Kubernetes, JWT auth, async processing).
-- **zoom-clone** (⭐1) — Real-time video conferencing (Next.js, TypeScript, Clerk, getstream, shadcn).
-- **iksa-reg-bot** (⭐1) — Go-based registration bot.
-- **Competitive Programming** — Python solutions to LeetCode, Codeforces, HackerRank challenges.
+### 📊 GitHub Analytics
 
-## 📊 GitHub Stats
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abzaek&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abzaek&theme=radical&hide_border=true"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abzaek&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abzaek&layout=compact&theme=radical&langs_count=6" height="170"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abzaek&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abzaek&theme=radical" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abzaek&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="trophies"/>
+</p>
 
-## 🐍 Contribution Graph
+<br/>
+
+### 🔭 Currently Building
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">Lead Hunter</h3>
+      <p align="center">
+        <a href="https://leads.abzaeko.duckdns.org" target="_blank">
+          <img src="https://img.shields.io/badge/live-4ADE80?style=flat-square&logo=vercel&logoColor=black"/>
+        </a>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      </p>
+      <p align="center">Automated lead gen kanban — scraper, campaign tracker, email outreach, all in Go.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Hermes Agent</h3>
+      <p align="center">
+        <a href="https://hermes-agent.nousresearch.com" target="_blank">
+          <img src="https://img.shields.io/badge/docs-6366F1?style=flat-square&logo=readthedocs&logoColor=white"/>
+        </a>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square"/>
+      </p>
+      <p align="center">Contributing to Nous Research's autonomous AI agent. MCP, multi-agent orchestration.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">chat-exporter</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/⭐_8-FEE75C?style=flat-square"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <p align="center">Export ChatGPT convos to Markdown — bypass message limits, transfer context between LLMs.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">video_to_mp3</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+      </p>
+      <p align="center">Cloud-native microservices — Flask, RabbitMQ, GridFS, Kubernetes, JWT auth.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">zoom-clone</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/⭐_1-FEE75C?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/getstream-1F1F1F?style=flat-square"/>
+      </p>
+      <p align="center">Real-time video conferencing — Next.js, Clerk auth, getstream, shadcn UI.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">iksa-reg-bot</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/⭐_1-FEE75C?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+      </p>
+      <p align="center">Go-based Telegram registration bot.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abzaek/Abzaek/main/snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abzaek/Abzaek/main/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Abzaek/Abzaek/main/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Abzaek/Abzaek/main/snake.svg" width="100%" />
 </picture>
 
-## 📌 Pinned Projects
+<br/>
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [chat-exporter](https://github.com/Abzaek/chat-exporter) | Export ChatGPT conversations to Markdown | ⭐8 |
-| [video_to_mp3](https://github.com/Abzaek/video_to_mp3) | Cloud-native video-to-MP3 converter | ⭐ |
-| [zoom-clone](https://github.com/Abzaek/zoom-clone) | Real-time video conferencing app | ⭐1 |
-| [iksa-reg-bot](https://github.com/Abzaek/iksa-reg-bot) | Go registration bot | ⭐1 |
-| [Competitive-Programming](https://github.com/Abzaek/Competitive-Programming) | DSA solutions (LeetCode, Codeforces) | ⭐1 |
-| [Fantasy-Ethiopia](https://github.com/Abzaek/Fantasy-Ethiopia) | Flutter app with Bloc + GoRouter | ⭐ |
+### 📫 Let's Connect
 
-## 🌐 Let's Connect
+<p align="center">
+  <a href="https://abzaek.dev"><img src="https://img.shields.io/badge/Website-abzaek.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/abzaek"><img src="https://img.shields.io/badge/LinkedIn-abzaek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abzaeko@gmail.com"><img src="https://img.shields.io/badge/Email-abzaeko@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-- 💼 Open to Senior/Staff engineering roles — Go, Python, or full-stack
-- 💬 Ask me about: distributed systems, Go internals, LLM agents, cloud infra
-- 📫 Reach me: [abzaeko@gmail.com](mailto:abzaeko@gmail.com)
+<p align="center">
+  <b>Open to Senior / Staff Engineering Roles</b><br/>
+  Go · Python · Full-Stack · Cloud Infrastructure · AI/ML Systems
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abzaek&style=flat-square&color=blueviolet" alt=""/>
+</p>
