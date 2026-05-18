@@ -1,157 +1,152 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Abzaek/Abzaek/main/github-header-image.png" width="100%" alt="banner"/>
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Abdulazez;Senior+Software+Engineer;Go+%7C+Python+%7C+TypeScript;Cloud+%7C+AI+%7C+Systems" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <a href="https://github.com/Abzaek">
+    <img src="https://raw.githubusercontent.com/Abzaek/Abzaek/main/github-header-image.png" alt="Abdulazez A." /></a>
+</p>
 
 <p align="center">
-  <a href="https://abzaek.dev"><img src="https://img.shields.io/badge/-abzaek.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/abzaek"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abzaeko@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Abzaek"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Senior%20Software%20Engineer;Go%20%E2%80%A2%20Python%20%E2%80%A2%20TypeScript;Cloud%2C%20AI%20and%20Distributed%20Systems;Always%20shipping%2C%20always%20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://abzaek.dev"><img width="32px" alt="Website" title="abzaek.dev" src="https://custom-icon-badges.demolab.com/badge/-globe-1F222E?style=for-the-badge&logo=globe&logoColor=F8D866"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/abzaek"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:abzaeko@gmail.com"><img width="32px" alt="Email" title="abzaeko@gmail.com" src="https://custom-icon-badges.demolab.com/badge/-mail-1F222E?style=for-the-badge&logo=mail&logoColor=F8D866"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://github.com/Abzaek"><img width="32px" alt="GitHub" title="GitHub" src="https://custom-icon-badges.demolab.com/badge/-mark--github-1F222E?style=for-the-badge&logo=mark-github&logoColor=F8D866"/></a>
 </p>
 
 <br/>
 
----
-
-### 🛠️ Tech Stack
-
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fiber-00ACC1?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <a href="https://github.com/Abzaek?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Abzaek?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/Abzaek?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Abzaek?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/Abzaek">
+    <img alt="profile views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=abzaek&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/></a>
 </p>
 
 <br/>
 
-### 📊 GitHub Analytics
+<details open>
+  <summary><h2>🔭 Currently Building</h2></summary>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abzaek&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abzaek&theme=radical&hide_border=true"/>
-</p>
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/Abzaek/chat-exporter"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Abzaek&repo=chat-exporter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="chat-exporter"></a>
+    <a href="https://github.com/Abzaek/video_to_mp3"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Abzaek&repo=video_to_mp3&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="video_to_mp3"></a>
+    <a href="https://github.com/Abzaek/zoom-clone"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Abzaek&repo=zoom-clone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="zoom-clone"></a>
+    <a href="https://github.com/Abzaek/iksa-reg-bot"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Abzaek&repo=iksa-reg-bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="iksa-reg-bot"></a>
+    <a href="https://github.com/Abzaek/Fantasy-Ethiopia"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Abzaek&repo=Fantasy-Ethiopia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Fantasy-Ethiopia"></a>
+    <a href="https://github.com/Abzaek/Competitive-Programming"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Abzaek&repo=Competitive-Programming&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Competitive-Programming"></a>
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abzaek&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-</p>
+  <a href="https://github.com/Abzaek?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abzaek&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="trophies"/>
-</p>
+<details open>
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
-<br/>
+  <h3>👨‍💻 Programming and Markup Languages</h3>
 
-### 🔭 Currently Building
+  <p>
+      <a href="https://github.com/search?q=user%3AAbzaek+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AAbzaek+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AAbzaek+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AAbzaek+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="https://github.com/search?q=user%3AAbzaek+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AAbzaek+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AAbzaek+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AAbzaek+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+  </p>
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">Lead Hunter</h3>
-      <p align="center">
-        <a href="https://leads.abzaeko.duckdns.org" target="_blank">
-          <img src="https://img.shields.io/badge/live-4ADE80?style=flat-square&logo=vercel&logoColor=black"/>
-        </a>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-        <img src="https://img.shields.io/badge/HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-      </p>
-      <p align="center">Automated lead gen kanban — scraper, campaign tracker, email outreach, all in Go.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Hermes Agent</h3>
-      <p align="center">
-        <a href="https://hermes-agent.nousresearch.com" target="_blank">
-          <img src="https://img.shields.io/badge/docs-6366F1?style=flat-square&logo=readthedocs&logoColor=white"/>
-        </a>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square"/>
-      </p>
-      <p align="center">Contributing to Nous Research's autonomous AI agent. MCP, multi-agent orchestration.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">chat-exporter</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/⭐_8-FEE75C?style=flat-square"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-      <p align="center">Export ChatGPT convos to Markdown — bypass message limits, transfer context between LLMs.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">video_to_mp3</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-      </p>
-      <p align="center">Cloud-native microservices — Flask, RabbitMQ, GridFS, Kubernetes, JWT auth.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">zoom-clone</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/⭐_1-FEE75C?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/getstream-1F1F1F?style=flat-square"/>
-      </p>
-      <p align="center">Real-time video conferencing — Next.js, Clerk auth, getstream, shadcn UI.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">iksa-reg-bot</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/⭐_1-FEE75C?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-      </p>
-      <p align="center">Go-based Telegram registration bot.</p>
-    </td>
-  </tr>
-</table>
+  <h3>🧰 Frameworks and Libraries</h3>
 
-<br/>
+  <p>
+      <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white"></a>
+      <a href="#"><img alt="Fiber" src="https://img.shields.io/badge/Fiber-00ACC1.svg?logo=go&logoColor=white"></a>
+      <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white"></a>
+      <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwind-css&logoColor=white"></a>
+      <a href="#"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?logo=rabbitmq&logoColor=white"></a>
+  </p>
 
-### 🐍 Contribution Snake
+  <h3>🗄️ Databases and Cloud Hosting</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abzaek/Abzaek/main/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abzaek/Abzaek/main/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Abzaek/Abzaek/main/snake.svg" width="100%" />
-</picture>
+  <p>
+      <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazonwebservices&logoColor=white"></a>
+      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+      <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white"></a>
+      <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+      <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438.svg?logo=redis&logoColor=white"></a>
+      <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white"></a>
+      <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+      <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"></a>
+  </p>
 
-<br/>
+  <h3>💻 Software and Tools</h3>
 
-### 📫 Let's Connect
+  <p>
+      <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white"></a>
+      <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+      <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
+  </p>
+</details>
 
-<p align="center">
-  <a href="https://abzaek.dev"><img src="https://img.shields.io/badge/Website-abzaek.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/abzaek"><img src="https://img.shields.io/badge/LinkedIn-abzaek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abzaeko@gmail.com"><img src="https://img.shields.io/badge/Email-abzaeko@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<details open>
+  <summary><h2>📊 Stats and Activity</h2></summary>
 
-<p align="center">
-  <b>Open to Senior / Staff Engineering Roles</b><br/>
-  Go · Python · Full-Stack · Cloud Infrastructure · AI/ML Systems
-</p>
+  <h3>🔥 Streak Stats</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abzaek&style=flat-square&color=blueviolet" alt=""/>
-</p>
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abzaek's streak" src="https://streak-stats.demolab.com/?user=abzaek&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abzaek's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=abzaek&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abzaek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abzaek&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Abzaek's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=abzaek&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <h3>⚡ Recent GitHub Activity</h3>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+
+  1. 🚀 Pushed commits to [Abzaek/chat-exporter](https://github.com/Abzaek/chat-exporter)
+  2. 💪 Opened PR in [Abzaek/zoom-clone](https://github.com/Abzaek/zoom-clone)
+  3. ⭐ Starred a repository on GitHub
+  4. 🔧 Updated infrastructure in [Abzaek/iksa-reg-bot](https://github.com/Abzaek/iksa-reg-bot)
+  5. 📝 Pushed commits to [Abzaek/Competitive-Programming](https://github.com/Abzaek/Competitive-Programming)
+  <!--END_SECTION:activity-->
+
+  <h3>🐍 Contribution Snake</h3>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abzaek/Abzaek/main/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abzaek/Abzaek/main/snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Abzaek/Abzaek/main/snake.svg" width="100%" />
+  </picture>
+
+</details>
