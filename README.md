@@ -61,45 +61,45 @@
 
   <h3>👨‍💻 Programming Languages</h3>
 
-  <p align="left">
-    <a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go"/></a>&nbsp;&nbsp;
-    <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>&nbsp;&nbsp;
-    <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a>
+  <p>
+      <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white"></a>
+      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
 
-  <p align="left">
-    <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/></a>&nbsp;&nbsp;
-    <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/></a>&nbsp;&nbsp;
-    <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/></a>&nbsp;&nbsp;
-    <a href="https://gin-gonic.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Gin"/></a>&nbsp;&nbsp;
-    <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/></a>&nbsp;&nbsp;
-    <a href="https://www.framer.com/motion/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="40" height="40" alt="Framer Motion"/></a>&nbsp;&nbsp;
-    <a href="https://www.numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/></a>&nbsp;&nbsp;
-    <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/></a>
+  <p>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB"></a>
+      <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white"></a>
+      <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white"></a>
+      <a href="#"><img alt="Gin" src="https://img.shields.io/badge/Gin-00ADD8.svg?logo=go&logoColor=white"></a>
+      <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwind-css&logoColor=white"></a>
+      <a href="#"><img alt="Framer Motion" src="https://img.shields.io/badge/Framer-0055FF.svg?logo=framer&logoColor=white"></a>
+      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
   </p>
 
   <h3>☁️ Cloud & Infrastructure</h3>
 
-  <p align="left">
-    <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/></a>&nbsp;&nbsp;
-    <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/></a>&nbsp;&nbsp;
-    <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/></a>&nbsp;&nbsp;
-    <a href="https://aws.amazon.com/dynamodb/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="DynamoDB"/></a>&nbsp;&nbsp;
-    <a href="https://aws.amazon.com/sqs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="SQS"/></a>&nbsp;&nbsp;
-    <a href="https://aws.amazon.com/s3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="S3"/></a>&nbsp;&nbsp;
-    <a href="https://aws.amazon.com/cognito/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="Cognito"/></a>&nbsp;&nbsp;
-    <a href="https://aws.amazon.com/lambda/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="Lambda"/></a>&nbsp;&nbsp;
-    <a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions"/></a>
+  <p>
+      <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazonwebservices&logoColor=white"></a>
+      <a href="#"><img alt="Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?logo=awslambda&logoColor=white"></a>
+      <a href="#"><img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-4053D6.svg?logo=amazondynamodb&logoColor=white"></a>
+      <a href="#"><img alt="SQS" src="https://img.shields.io/badge/Amazon%20SQS-FF4F8B.svg?logo=amazonsqs&logoColor=white"></a>
+      <a href="#"><img alt="S3" src="https://img.shields.io/badge/Amazon%20S3-569A31.svg?logo=amazons3&logoColor=white"></a>
+      <a href="#"><img alt="Cognito" src="https://img.shields.io/badge/Amazon%20Cognito-DD344C.svg?logo=amazoncognito&logoColor=white"></a>
+      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+      <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=github-actions&logoColor=white"></a>
   </p>
 
   <h3>🤖 AI & ML</h3>
 
-  <p align="left">
-    <a href="https://openai.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" height="40" alt="OpenAI"/></a>&nbsp;&nbsp;
-    <a href="https://gemini.google.com/"><img src="https://cdn.simpleicons.org/google/FFFFFF" width="40" height="40" alt="Google Gemini"/></a>&nbsp;&nbsp;
-    <a href="https://github.com/lyst/lightfm"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="LightFM"/></a>
+  <p>
+      <a href="#"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white"></a>
+      <a href="#"><img alt="Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?logo=googlegemini&logoColor=white"></a>
+      <a href="#"><img alt="LightFM" src="https://img.shields.io/badge/LightFM-FF6F00.svg?logo=python&logoColor=white"></a>
   </p>
 </details>
 
@@ -115,7 +115,5 @@
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
-
-
 
 </details>
