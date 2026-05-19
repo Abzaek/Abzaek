@@ -11,7 +11,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://abzaek.dev"><img width="32px" alt="Website" title="abzaek.dev" src="https://cdn.simpleicons.org/safari/FFFFFF"/></a>
+  <a href="https://abzaek.dev"><img width="32px" alt="Website" title="abzaek.dev" src="https://cdn.simpleicons.org/aboutdotme/FFFFFF"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/abzaek"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/Abzaek/Abzaek/main/assets/icons/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
