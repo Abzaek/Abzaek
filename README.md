@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://abzaek.dev"><img width="32px" alt="Website" title="abzaek.dev" src="https://raw.githubusercontent.com/Abzaek/Abzaek/main/assets/icons/globe.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/abzaek"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/abzaek"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/Abzaek/Abzaek/main/assets/icons/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:abzaeko@gmail.com"><img width="32px" alt="Email" title="abzaeko@gmail.com" src="https://raw.githubusercontent.com/Abzaek/Abzaek/main/assets/icons/mail.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
