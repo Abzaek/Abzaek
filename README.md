@@ -37,17 +37,17 @@
 <details open>
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
 
-  <!-- Small repo cards https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards using DenverCoder1's fork (same as his profile) -->
   <p align="left">
-    <a href="https://github.com/paramiko/paramiko"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=paramiko&repo=paramiko&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="paramiko"></a>
-    <a href="https://github.com/knadh/listmonk"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=knadh&repo=listmonk&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="listmonk"></a>
-    <a href="https://github.com/ThreeDotsLabs/watermill"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ThreeDotsLabs&repo=watermill&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="watermill"></a>
-    <a href="https://github.com/moby/buildkit"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=moby&repo=buildkit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="buildkit"></a>
-    <a href="https://github.com/runatlantis/atlantis"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=runatlantis&repo=atlantis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="atlantis"></a>
-    <a href="https://github.com/git-bug/git-bug"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=git-bug&repo=git-bug&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="git-bug"></a>
-    <a href="https://github.com/etcd-io/bbolt"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=etcd-io&repo=bbolt&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="bbolt"></a>
-    <a href="https://github.com/go-swagger/go-swagger"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=go-swagger&repo=go-swagger&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="go-swagger"></a>
-    <a href="https://github.com/gruntwork-io/terragrunt"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=gruntwork-io&repo=terragrunt&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="terragrunt"></a>
+    <a href="https://github.com/paramiko/paramiko"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=paramiko&repo=paramiko&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="paramiko"></a>
+    <a href="https://github.com/knadh/listmonk"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=knadh&repo=listmonk&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="listmonk"></a>
+    <a href="https://github.com/ThreeDotsLabs/watermill"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ThreeDotsLabs&repo=watermill&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="watermill"></a>
+    <a href="https://github.com/moby/buildkit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=moby&repo=buildkit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="buildkit"></a>
+    <a href="https://github.com/runatlantis/atlantis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=runatlantis&repo=atlantis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="atlantis"></a>
+    <a href="https://github.com/git-bug/git-bug"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=git-bug&repo=git-bug&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="git-bug"></a>
+    <a href="https://github.com/etcd-io/bbolt"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=etcd-io&repo=bbolt&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="bbolt"></a>
+    <a href="https://github.com/go-swagger/go-swagger"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=go-swagger&repo=go-swagger&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="go-swagger"></a>
+    <a href="https://github.com/gruntwork-io/terragrunt"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gruntwork-io&repo=terragrunt&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="terragrunt"></a>
   </p>
 
   <p align="left">
@@ -125,8 +125,8 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abzaek's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Abzaek&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abzaek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abzaek&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abzaek's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Abzaek&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abzaek's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abzaek&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
