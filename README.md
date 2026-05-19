@@ -80,26 +80,63 @@
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
   </p>
 
+  <h3>🗄️ Databases</h3>
+
+  <p>
+      <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+      <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
+      <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438.svg?logo=redis&logoColor=white"></a>
+      <a href="#"><img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-4053D6.svg?logo=amazondynamodb&logoColor=white"></a>
+      <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E.svg?logo=sqlite&logoColor=white"></a>
+  </p>
+
   <h3>☁️ Cloud & Infrastructure</h3>
 
   <p>
       <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazonwebservices&logoColor=white"></a>
       <a href="#"><img alt="Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?logo=awslambda&logoColor=white"></a>
-      <a href="#"><img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-4053D6.svg?logo=amazondynamodb&logoColor=white"></a>
       <a href="#"><img alt="SQS" src="https://img.shields.io/badge/Amazon%20SQS-FF4F8B.svg?logo=amazonsqs&logoColor=white"></a>
       <a href="#"><img alt="S3" src="https://img.shields.io/badge/Amazon%20S3-569A31.svg?logo=amazons3&logoColor=white"></a>
       <a href="#"><img alt="Cognito" src="https://img.shields.io/badge/Amazon%20Cognito-DD344C.svg?logo=amazoncognito&logoColor=white"></a>
       <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
       <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white"></a>
+      <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white"></a>
+      <a href="#"><img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689.svg?logo=helm&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=github-actions&logoColor=white"></a>
+      <a href="#"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?logo=rabbitmq&logoColor=white"></a>
   </p>
 
-  <h3>🤖 AI & ML</h3>
+  <h3>🤖 AI Agents & LLMs</h3>
 
   <p>
+      <a href="#"><img alt="Hermes Agent" src="https://img.shields.io/badge/Hermes%20Agent-FF6F00.svg?logo=robot&logoColor=white"></a>
+      <a href="#"><img alt="Claude" src="https://img.shields.io/badge/Claude-FF6600.svg?logo=claude&logoColor=white"></a>
       <a href="#"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white"></a>
       <a href="#"><img alt="Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?logo=googlegemini&logoColor=white"></a>
-      <a href="#"><img alt="LightFM" src="https://img.shields.io/badge/LightFM-FF6F00.svg?logo=python&logoColor=white"></a>
+      <a href="#"><img alt="OpenAI Codex" src="https://img.shields.io/badge/Codex-412991.svg?logo=openai&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Copilot" src="https://img.shields.io/badge/Copilot-000000.svg?logo=githubcopilot&logoColor=white"></a>
+      <a href="#"><img alt="Cursor" src="https://img.shields.io/badge/Cursor-00DC82.svg?logo=cursor&logoColor=white"></a>
+      <a href="#"><img alt="DSPy" src="https://img.shields.io/badge/DSPy-6B21A8.svg?logo=dspy&logoColor=white"></a>
+  </p>
+
+  <h3>🧠 AI Infrastructure & Serving</h3>
+
+  <p>
+      <a href="#"><img alt="llama.cpp" src="https://img.shields.io/badge/llama.cpp-FFD700.svg?logo=llama&logoColor=black"></a>
+      <a href="#"><img alt="vLLM" src="https://img.shields.io/badge/vLLM-0096D6.svg?logo=vllm&logoColor=white"></a>
+      <a href="#"><img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFD21E.svg?logo=huggingface&logoColor=black"></a>
+      <a href="#"><img alt="SkyPilot" src="https://img.shields.io/badge/SkyPilot-0000FF.svg?logo=kubernetes&logoColor=white"></a>
+  </p>
+
+  <h3>💻 Dev Tools & Environment</h3>
+
+  <p>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visualstudiocode&logoColor=white"></a>
+      <a href="#"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143.svg?logo=neovim&logoColor=white"></a>
+      <a href="#"><img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F.svg?logo=tmux&logoColor=white"></a>
+      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
+      <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?logo=gnubash&logoColor=white"></a>
   </p>
 </details>
 
@@ -113,7 +150,6 @@
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abzaek's streak" src="https://streak-stats.demolab.com/?user=Abzaek&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
 </details>
