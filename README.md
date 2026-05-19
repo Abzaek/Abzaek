@@ -11,13 +11,13 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://abzaek.dev"><img width="32px" alt="Website" title="abzaek.dev" src="https://i.imgur.com/XlBuInp.png"/></a>
+  <a href="https://abzaek.dev"><img width="32px" alt="Website" title="abzaek.dev" src="https://raw.githubusercontent.com/Abzaek/Abzaek/main/assets/icons/globe.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/abzaek"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:abzaeko@gmail.com"><img width="32px" alt="Email" title="abzaeko@gmail.com" src="https://i.imgur.com/j2IJN5K.png"/></a>
+  <a href="mailto:abzaeko@gmail.com"><img width="32px" alt="Email" title="abzaeko@gmail.com" src="https://raw.githubusercontent.com/Abzaek/Abzaek/main/assets/icons/mail.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/Abzaek"><img width="32px" alt="GitHub" title="GitHub" src="https://i.imgur.com/M4nJf8H.png"/></a>
+  <a href="https://github.com/Abzaek"><img width="32px" alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/Abzaek/Abzaek/main/assets/icons/github.svg"/></a>
 </p>
 
 <br/>
@@ -43,11 +43,11 @@
     <a href="https://github.com/knadh/listmonk"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=knadh&repo=listmonk&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="listmonk"></a>
     <a href="https://github.com/ThreeDotsLabs/watermill"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ThreeDotsLabs&repo=watermill&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="watermill"></a>
     <a href="https://github.com/moby/buildkit"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=moby&repo=buildkit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="buildkit"></a>
-    <a href="https://github.com/runatlantis/atlantis"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=runatlantis&repo=atlantis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="atlantis"></a>
-    <a href="https://github.com/git-bug/git-bug"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=git-bug&repo=git-bug&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="git-bug"></a>
+    <a href="https://github.com/runatlantis/atlantis"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=runatlantis&repo=atlantis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="atlantis"></a>
+    <a href="https://github.com/git-bug/git-bug"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=git-bug&repo=git-bug&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="git-bug"></a>
     <a href="https://github.com/etcd-io/bbolt"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=etcd-io&repo=bbolt&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="bbolt"></a>
-    <a href="https://github.com/go-swagger/go-swagger"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=go-swagger&repo=go-swagger&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="go-swagger"></a>
-    <a href="https://github.com/gruntwork-io/terragrunt"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=gruntwork-io&repo=terragrunt&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="terragrunt"></a>
+    <a href="https://github.com/go-swagger/go-swagger"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=go-swagger&repo=go-swagger&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="go-swagger"></a>
+    <a href="https://github.com/gruntwork-io/terragrunt"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=gruntwork-io&repo=terragrunt&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="terragrunt"></a>
   </p>
 
   <p align="left">
