@@ -55,7 +55,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -91,7 +91,7 @@
   </p>
 
   <h3>☁️ Cloud & Infrastructure</h3>
-[5/22/26 5:49 PM] Abdulazez: <p>
+<p>
       <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazonwebservices&logoColor=white"></a>
       <a href="#"><img alt="Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?logo=awslambda&logoColor=white"></a>
       <a href="#"><img alt="SQS" src="https://img.shields.io/badge/Amazon%20SQS-FF4F8B.svg?logo=amazonsqs&logoColor=white"></a>
@@ -139,11 +139,11 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
-[5/22/26 5:49 PM] Abdulazez: <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abzaek's streak" src="https://streak-stats.demolab.com/?user=Abzaek&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
