@@ -1,4 +1,4 @@
-[5/22/26 5:49 PM] Abdulazez: <p align="center">
+<p align="center">
   <a href="https://github.com/Abzaek">
     <img src="https://raw.githubusercontent.com/Abzaek/Abzaek/main/github-header-image.png" alt="Abdulazez A." /></a>
 </p>
