@@ -35,7 +35,7 @@
 
 
 <details open>
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+  <summary><h2 style="color: #C7F11A;">📕 Top Projects I've Contributed To</h2></summary>
 
   <!-- Small repo cards using DenverCoder1's fork (same as his profile) -->
   <p align="left">
@@ -56,10 +56,10 @@
 </details>
 
 <details open>
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2 style="color: #C7F11A;">🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <h3>👨‍💻 Programming Languages</h3>
+  <h3 style="color: #C7F11A;">👨‍💻 Programming Languages</h3>
 
   <p>
       <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white"></a>
@@ -67,7 +67,7 @@
       <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
+  <h3 style="color: #C7F11A;">🧰 Frameworks and Libraries</h3>
 
   <p>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB"></a>
@@ -80,7 +80,7 @@
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
   </p>
 
-  <h3>🗄️ Databases</h3>
+  <h3 style="color: #C7F11A;">🗄️ Databases</h3>
 
   <p>
       <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
@@ -90,7 +90,7 @@
       <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E.svg?logo=sqlite&logoColor=white"></a>
   </p>
 
-  <h3>☁️ Cloud & Infrastructure</h3>
+  <h3 style="color: #C7F11A;">☁️ Cloud & Infrastructure</h3>
 <p>
       <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazonwebservices&logoColor=white"></a>
       <a href="#"><img alt="Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?logo=awslambda&logoColor=white"></a>
@@ -105,7 +105,7 @@
       <a href="#"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?logo=rabbitmq&logoColor=white"></a>
   </p>
 
-  <h3>🤖 AI Agents & LLMs</h3>
+  <h3 style="color: #C7F11A;">🤖 AI Agents & LLMs</h3>
 
   <p>
       <a href="#"><img alt="Hermes Agent" src="https://img.shields.io/badge/Hermes%20Agent-FF6F00.svg?logo=robot&logoColor=white"></a>
@@ -118,7 +118,7 @@
       <a href="#"><img alt="DSPy" src="https://img.shields.io/badge/DSPy-6B21A8.svg?logo=dspy&logoColor=white"></a>
   </p>
 
-  <h3>🧠 AI Infrastructure & Serving</h3>
+  <h3 style="color: #C7F11A;">🧠 AI Infrastructure & Serving</h3>
 
   <p>
       <a href="#"><img alt="llama.cpp" src="https://img.shields.io/badge/llama.cpp-FFD700.svg?logo=llama&logoColor=black"></a>
@@ -127,7 +127,7 @@
       <a href="#"><img alt="SkyPilot" src="https://img.shields.io/badge/SkyPilot-0000FF.svg?logo=kubernetes&logoColor=white"></a>
   </p>
 
-  <h3>💻 Dev Tools & Environment</h3>
+  <h3 style="color: #C7F11A;">💻 Dev Tools & Environment</h3>
 
   <p>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -140,9 +140,9 @@
 </details>
 
 <details open>
-  <summary><h2>📊 Stats and Activity</h2></summary>
+  <summary><h2 style="color: #C7F11A;">📊 Stats and Activity</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
+  <h3 style="color: #C7F11A;">🔥 Streak Stats</h3>
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
